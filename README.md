@@ -3,11 +3,21 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+![alt text](plan.png)
+
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
+
+[bopper](dopper.dxf)
+
+[tapper](tapper.dxf)
 
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
+
+![alt text](open.JPG)
+
+![alt text](close.JPG)
 
 ## Electronics
 
